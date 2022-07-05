@@ -1,2 +1,2 @@
 # PluginFiles
-Here you'll find all the files (translated, versions...)
+- Here you can find original, translated and versioned files for my plugins.
