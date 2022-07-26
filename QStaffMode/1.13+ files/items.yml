@@ -16,7 +16,7 @@ items:
     amount: 1
     name: '&aNavigator'
     lore:
-   - Teleport to the block you are looking at
+        - Teleport to the block you are looking at
     # Item looks like being enchanted
     glow: false
     slot: 0
@@ -34,7 +34,7 @@ items:
     amount: 1
     name: '&2StaffList'
     lore:
-   - List of all staff online
+        - List of all staff online
     # Item looks like being enchanted
     glow: false
     slot: 1
@@ -52,7 +52,7 @@ items:
     amount: 1
     name: '&aWorldEdit &cWand'
     lore:
-   - The WorldEdit Wand
+        - The WorldEdit Wand
     # Item looks like being enchanted
     glow: false
     slot: 2
@@ -70,7 +70,7 @@ items:
     amount: 1
     name: '&aInspect &bItem'
     lore:
-   - Inspect player's inventory
+        - Inspect player's inventory
     # Item looks like being enchanted
     glow: false
     slot: 3
@@ -88,7 +88,7 @@ items:
     amount: 1
     name: '&bFreeze'
     lore:
-   - Freeze a player
+        - Freeze a player
     # Item looks like being enchanted
     glow: false
     slot: 4
@@ -106,8 +106,8 @@ items:
     amount: 1
     name: '&7Knockback Tester'
     lore:
-   - Hit someone with it
-    - To check his antiknockback
+        - Hit someone with it
+        - To check his antiknockback
     # Item looks like being enchanted
     glow: true
     slot: 5
@@ -125,7 +125,7 @@ items:
     amount: 1
     name: '&2Unvanish'
     lore:
-   - Show to other players
+        - Show to other players
     # Item looks like being enchanted
     glow: false
     slot: 6
@@ -143,7 +143,7 @@ items:
     amount: 1
     name: '&2Vanish'
     lore:
-   - Hide to other players
+        - Hide to other players
     # Item looks like being enchanted
     glow: false
     slot: 6
@@ -161,7 +161,7 @@ items:
     amount: 1
     name: '&eFly'
     lore:
-   - '&aToggle fly'
+        - '&aToggle fly'
     # Item looks like being enchanted
     glow: false
     slot: 7
@@ -179,7 +179,7 @@ items:
     amount: 1
     name: '&4Random &aTeleport'
     lore:
-   - Teleport to a random player
+        - Teleport to a random player
     # Item looks like being enchanted
     glow: false
     slot: 8
