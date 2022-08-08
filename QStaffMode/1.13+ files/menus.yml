@@ -22,7 +22,7 @@ inspect:
     amount: 1
     name: ''
     lore:
-   - ''
+      - ''
     # Item looks like being enchanted
     glow: false
   info:
@@ -39,9 +39,9 @@ inspect:
     amount: 1
     name: '&cInfo'
     lore:
-    - '&4Health: <health>'
-    - '&aFood: <food>'
-    - '&bXp: <xp>'
+      - '&4Health: <health>'
+      - '&aFood: <food>'
+      - '&bXp: <xp>'
     # Item looks like being enchanted
     glow: false
   gamemode:
@@ -58,7 +58,7 @@ inspect:
     amount: 1
     name: '&cGamemode: <gm>'
     lore:
-   - '&4The gamemode!'
+      - '&4The gamemode!'
     # Item looks like being enchanted
     glow: false
   fly:
@@ -75,7 +75,7 @@ inspect:
     amount: 1
     name: '&bFlying: <fly>'
     lore:
-   - '&cGet if flying!'
+      - '&cGet if flying!'
     # Item looks like being enchanted
     glow: false
   effects:
@@ -94,7 +94,7 @@ inspect:
     format: '&a<name> <level>: &7<duration>'
     # To this field, the plugin will add all potion effects, one line per effect
     lore:
-   - '&bEffects:'
+      - '&bEffects:'
     # Item looks like being enchanted
     glow: false
 # ################################################################################################################
@@ -120,7 +120,7 @@ main:
     amount: 1
     name: ''
     lore:
-   - ''
+      - ''
     # Item looks like being enchanted
     glow: false
   inStaffMode:
@@ -137,7 +137,7 @@ main:
     amount: 1
     name: '&cAvailable Staff'
     lore:
-    - '&eAll players in staff mode: &b(<total>)'
+      - '&eAll players in staff mode: &b(<total>)'
     # Item looks like being enchanted
     glow: false
     # Has to be between 0 and the size of this menu minus one unity.
@@ -156,7 +156,7 @@ main:
     amount: 1
     name: '&cStaff Playing'
     lore:
-    - '&eAll players without staff mode: &b(<total>)'
+      - '&eAll players without staff mode: &b(<total>)'
     # Item looks like being enchanted
     glow: false
     # Has to be between 0 and the size of this menu minus one unity.
@@ -185,14 +185,14 @@ availableStaff:
     amount: 1
     name: ''
     lore:
-   - ''
+      - ''
     # Item looks like being enchanted
     glow: false
   heads:
     amount: 1
     name: <player>
     lore:
-   - <player> lore!
+      - <player> lore!
     # Item looks like being enchanted
     glow: false
   nextPage:
@@ -208,7 +208,7 @@ availableStaff:
     amount: 1
     name: '&7Next page'
     lore:
-   - ''
+       - ''
     # Item looks like being enchanted
     glow: false
     # Possible values: "corner" or "middle"
@@ -226,7 +226,7 @@ availableStaff:
     amount: 1
     name: '&7Previous page'
     lore:
-   - ''
+      - ''
     # Item looks like being enchanted
     glow: false
     # Possible values: "corner" or "middle"
@@ -245,7 +245,7 @@ availableStaff:
     amount: 1
     name: '&4Page: <page>/<total>'
     lore:
-   - ''
+      - ''
     # Item looks like being enchanted
     glow: true
 # ################################################################################################################
@@ -272,14 +272,14 @@ unavailableStaff:
     amount: 1
     name: ''
     lore:
-   - ''
+      - ''
     # Item looks like being enchanted
     glow: false
   heads:
     amount: 1
     name: <player>
     lore:
-   - <player> lore!
+      - <player> lore!
     # Item looks like being enchanted
     glow: false
   nextPage:
@@ -295,7 +295,7 @@ unavailableStaff:
     amount: 1
     name: '&7Next page'
     lore:
-   - ''
+      - ''
     # Item looks like being enchanted
     glow: false
     # Possible values: "corner" or "middle"
@@ -313,7 +313,7 @@ unavailableStaff:
     amount: 1
     name: '&7Previous page'
     lore:
-   - ''
+      - ''
     # Item looks like being enchanted
     glow: false
     # Possible values: "corner" or "middle"
@@ -332,7 +332,7 @@ unavailableStaff:
     amount: 1
     name: '&4Page: <page>/<total>'
     lore:
-   - ''
+      - ''
     # Item looks like being enchanted
     glow: true
 #################################################################################################################
